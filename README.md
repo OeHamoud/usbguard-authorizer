@@ -58,10 +58,11 @@ Do you want to ALLOW this device?
 
 ---
 
-## 🚀 Installation
-
+# 🚀 Installation
 ```bash id="install1"
-git clone https://github.com/YOUR_USERNAME/usbguard-authorizer
+sudo apt install usbguard
+
+git clone https://github.com/OeHamoud/usbguard-authorizer
 cd usbguard-authorizer
 cargo build --release
 ````
