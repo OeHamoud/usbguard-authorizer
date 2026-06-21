@@ -1,10 +1,10 @@
 # 🔐 USBGuard Authorizer
 
-![Rust](https://img.shields.io/badge/Rust-1.70+-orange?logo=rust)
-![Linux](https://img.shields.io/badge/Linux-supported-blue?logo=linux)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-active-success)
-![Security](https://img.shields.io/badge/USB%20Control-secure-red)
+![Rust](https://img.shields.io/badge/Rust-1.70+-orange?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-supported-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
+![Security](https://img.shields.io/badge/USB%20Control-secure-red?style=for-the-badge)
 
 A **real-time USB authorization daemon for Linux** built with Rust + USBGuard.
 
