@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 ![Security](https://img.shields.io/badge/USB%20Control-secure-red?style=for-the-badge)
 
+***Quick Note:*** I accidently recreated [usbguard-notifier](https://github.com/Cropi/usbguard-notifier), If you are looking for a tool like this, I highly recommend [usbguard-notifier](https://github.com/Cropi/usbguard-notifier) as it's mature and well supported than mine, Cheers !
+
 A **real-time USB authorization daemon for Linux** built with Rust + USBGuard.
 
 It intercepts USB device connections and requires **user approval before access is granted**.
